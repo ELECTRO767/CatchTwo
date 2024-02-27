@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/kyan0045/catchtwo#readme",
   "dependencies": {
+    "discord.js":"^12.5.3"
     "axios": "^1.4.0",
     "chalk": "4.1.0",
     "child_process": "^1.0.2",
