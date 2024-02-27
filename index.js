@@ -2,6 +2,7 @@ var version = "1.3.8";
 // Version 1.3.8
 // EVERYTHING can be set up in config.json, no need to change anything here :)!
 
+client.login(process.env.TOKEN); //login bor using token
 const { Client, Permissions } = require("discord.js-selfbot-v13");
 const axios = require("axios");
 const date = require("date-and-time");
