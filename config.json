@@ -1,5 +1,5 @@
 {
-  "sleeping": true,
+  "sleeping": false,
   "incenseMode": true,
   "reactAfterCatch": false,
   "logCatches": false,
