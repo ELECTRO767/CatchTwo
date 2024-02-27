@@ -1,13 +1,13 @@
 {
   "sleeping": true,
-  "incenseMode": false,
+  "incenseMode": true,
   "reactAfterCatch": false,
-  "logCatches": true,
+  "logCatches": false,
   "lowIVLog": "10.00",
   "highIVLog": "85.00",
-  "logWebhook": "WEBHOOK TO LOG CATCHES",
-  "ownerID": [ "ID OF MAIN ACCOUNT", "..." ],
-  "prefix": "!",
+  "logWebhook": "https://discord.com/api/webhooks/1203356885726666752/FFNoMh46Ur7WJ1o9PayOu7waNFbWttoggXqkFF7MdEXUBFcKnG6F75t37d69o7qSl9eL",
+  "ownerID": [ "805525446670155836", "791519317702737950" ],
+  "prefix": "+",
   "globalCatch": false,
   "blacklistedGuilds": [ "716390832034414685", "..." ]
 }
